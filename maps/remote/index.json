@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "maps": [
+    {
+      "id": "night_market",
+      "titleKey": "map_night_market",
+      "version": 6,
+      "bundled": true,
+      "title": {
+        "de": "Nachtmarkt",
+        "en": "Night Market",
+        "es": "Mercado nocturno",
+        "fr": "Marché de nuit",
+        "ja": "ナイトマーケット",
+        "ko": "야시장",
+        "zh": "夜市"
+      }
+    },
+    {
+      "id": "space_station",
+      "titleKey": "map_space_station",
+      "version": 5,
+      "bundled": true,
+      "title": {
+        "de": "Raumstation",
+        "en": "Space Station",
+        "es": "Estación espacial",
+        "fr": "Station spatiale",
+        "ja": "宇宙ステーション",
+        "ko": "우주 정거장",
+        "zh": "太空站"
+      }
+    },
+    {
+      "id": "winter_market",
+      "titleKey": "map_winter_market",
+      "version": 2,
+      "bundled": true,
+      "title": {
+        "de": "Wintermarkt",
+        "en": "Winter Market",
+        "es": "Mercado de invierno",
+        "fr": "Marché d'hiver",
+        "ja": "冬のマーケット",
+        "ko": "겨울 시장",
+        "zh": "冬季市集"
+      }
+    },
+    {
+      "id": "kyoto_alley",
+      "titleKey": "map_kyoto_alley",
+      "version": 5,
+      "bundled": false,
+      "title": {
+        "de": "Gasse in Kyoto",
+        "en": "Kyoto Alley",
+        "es": "Callejón de Kioto",
+        "fr": "Ruelle de Kyoto",
+        "ja": "京都の路地",
+        "ko": "교토 골목",
+        "zh": "京都小巷"
+      },
+      "archive": "kyoto_alley/kyoto_alley-v5.zip",
+      "bytes": 5274585,
+      "thumbnail": "kyoto_alley/thumbnail.webp"
+    },
+    {
+      "id": "mexico_fiesta",
+      "titleKey": "map_mexico_fiesta",
+      "version": 5,
+      "bundled": false,
+      "title": {
+        "de": "Fiesta in Mexiko",
+        "en": "Mexico Fiesta",
+        "es": "Fiesta mexicana",
+        "fr": "Fiesta mexicaine",
+        "ja": "メキシコのお祭り",
+        "ko": "멕시코 축제",
+        "zh": "墨西哥嘉年華"
+      },
+      "archive": "mexico_fiesta/mexico_fiesta-v5.zip",
+      "bytes": 5717326,
+      "thumbnail": "mexico_fiesta/thumbnail.webp"
+    },
+    {
+      "id": "library",
+      "titleKey": "map_library",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Bibliothek",
+        "en": "Library",
+        "es": "Biblioteca",
+        "fr": "Bibliothèque",
+        "ja": "図書館",
+        "ko": "도서관",
+        "zh": "圖書館"
+      },
+      "archive": "library/library-v3.zip",
+      "bytes": 4714795,
+      "thumbnail": "library/thumbnail.webp"
+    },
+    {
+      "id": "animal_clinic",
+      "titleKey": "map_animal_clinic",
+      "version": 2,
+      "bundled": false,
+      "title": {
+        "de": "Tierarztpraxis",
+        "en": "Animal Clinic",
+        "es": "Veterinaria",
+        "fr": "Clinique vétérinaire",
+        "ja": "動物病院",
+        "ko": "동물병원",
+        "zh": "動物醫院"
+      },
+      "archive": "animal_clinic/animal_clinic-v2.zip",
+      "bytes": 4947513,
+      "thumbnail": "animal_clinic/thumbnail.webp"
+    },
+    {
+      "id": "greenhouse",
+      "titleKey": "map_greenhouse",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Gewächshaus",
+        "en": "Greenhouse",
+        "es": "Invernadero",
+        "fr": "Serre",
+        "ja": "温室",
+        "ko": "온실",
+        "zh": "溫室"
+      },
+      "archive": "greenhouse/greenhouse-v3.zip",
+      "bytes": 5708217,
+      "thumbnail": "greenhouse/thumbnail.webp"
+    },
+    {
+      "id": "pirate_ship",
+      "titleKey": "map_pirate_ship",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Piratenschiff",
+        "en": "Pirate Ship",
+        "es": "Barco pirata",
+        "fr": "Bateau pirate",
+        "ja": "海賊船",
+        "ko": "해적선",
+        "zh": "海盜船"
+      },
+      "archive": "pirate_ship/pirate_ship-v3.zip",
+      "bytes": 5104959,
+      "thumbnail": "pirate_ship/thumbnail.webp"
+    },
+    {
+      "id": "toy_shop",
+      "titleKey": "map_toy_shop",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Spielzeugladen",
+        "en": "Toy Shop",
+        "es": "Juguetería",
+        "fr": "Magasin de jouets",
+        "ja": "おもちゃ屋さん",
+        "ko": "장난감 가게",
+        "zh": "玩具店"
+      },
+      "archive": "toy_shop/toy_shop-v3.zip",
+      "bytes": 5187052,
+      "thumbnail": "toy_shop/thumbnail.webp"
+    },
+    {
+      "id": "seaside_village",
+      "titleKey": "map_seaside_village",
+      "version": 5,
+      "bundled": false,
+      "title": {
+        "de": "Dorf am Meer",
+        "en": "Seaside Village",
+        "es": "Pueblo costero",
+        "fr": "Village côtier",
+        "ja": "海辺の村",
+        "ko": "해변 마을",
+        "zh": "海邊小鎮"
+      },
+      "archive": "seaside_village/seaside_village-v5.zip",
+      "bytes": 5173269,
+      "thumbnail": "seaside_village/thumbnail.webp"
+    },
+    {
+      "id": "bakery",
+      "titleKey": "map_bakery",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Bäckerei",
+        "en": "Bakery",
+        "es": "Panadería",
+        "fr": "Boulangerie",
+        "ja": "パン屋さん",
+        "ko": "빵집",
+        "zh": "麵包店"
+      },
+      "archive": "bakery/bakery-v3.zip",
+      "bytes": 5158566,
+      "thumbnail": "bakery/thumbnail.webp"
+    },
+    {
+      "id": "aquarium",
+      "titleKey": "map_aquarium",
+      "version": 2,
+      "bundled": false,
+      "title": {
+        "de": "Aquarium",
+        "en": "Aquarium",
+        "es": "Acuario",
+        "fr": "Aquarium",
+        "ja": "水族館",
+        "ko": "아쿠아리움",
+        "zh": "水族館"
+      },
+      "archive": "aquarium/aquarium-v2.zip",
+      "bytes": 5657701,
+      "thumbnail": "aquarium/thumbnail.webp"
+    },
+    {
+      "id": "farm",
+      "titleKey": "map_farm",
+      "version": 5,
+      "bundled": false,
+      "title": {
+        "de": "Bauernhof",
+        "en": "Farm",
+        "es": "Granja",
+        "fr": "Ferme",
+        "ja": "牧場",
+        "ko": "농장",
+        "zh": "農場"
+      },
+      "archive": "farm/farm-v5.zip",
+      "bytes": 5986557,
+      "thumbnail": "farm/thumbnail.webp"
+    },
+    {
+      "id": "amusement_park",
+      "titleKey": "map_amusement_park",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Freizeitpark",
+        "en": "Amusement Park",
+        "es": "Parque de diversiones",
+        "fr": "Parc d'attractions",
+        "ja": "遊園地",
+        "ko": "놀이공원",
+        "zh": "遊樂園"
+      },
+      "archive": "amusement_park/amusement_park-v3.zip",
+      "bytes": 5749149,
+      "thumbnail": "amusement_park/thumbnail.webp"
+    },
+    {
+      "id": "cozy_cafe_street",
+      "titleKey": "map_cozy_cafe_street",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Gemütliche Cafégasse",
+        "en": "Cozy Café Street",
+        "es": "Acogedora calle de cafés",
+        "fr": "Rue des petits cafés",
+        "ja": "ほっこりカフェ通り",
+        "ko": "포근한 카페 거리",
+        "zh": "溫馨咖啡街"
+      },
+      "archive": "cozy_cafe_street/cozy_cafe_street-v3.zip",
+      "bytes": 5514690,
+      "thumbnail": "cozy_cafe_street/thumbnail.webp"
+    },
+    {
+      "id": "train_station",
+      "titleKey": "map_train_station",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Bahnhof",
+        "en": "Train Station",
+        "es": "Estación de tren",
+        "fr": "Gare",
+        "ja": "駅",
+        "ko": "기차역",
+        "zh": "火車站"
+      },
+      "archive": "train_station/train_station-v3.zip",
+      "bytes": 4895761,
+      "thumbnail": "train_station/thumbnail.webp"
+    },
+    {
+      "id": "istanbul_bazaar",
+      "titleKey": "map_istanbul_bazaar",
+      "version": 3,
+      "bundled": false,
+      "title": {
+        "de": "Basar in Istanbul",
+        "en": "Istanbul Bazaar",
+        "es": "Bazar de Estambul",
+        "fr": "Bazar d'Istanbul",
+        "ja": "イスタンブールのバザール",
+        "ko": "이스탄불 시장",
+        "zh": "伊斯坦堡市集"
+      },
+      "archive": "istanbul_bazaar/istanbul_bazaar-v3.zip",
+      "bytes": 5963058,
+      "thumbnail": "istanbul_bazaar/thumbnail.webp"
+    },
+    {
+      "id": "snowy_lodge_village",
+      "titleKey": "map_snowy_lodge_village",
+      "version": 2,
+      "bundled": false,
+      "title": {
+        "de": "Verschneites Hüttendorf",
+        "en": "Snowy Lodge Village",
+        "es": "Aldea de cabañas nevadas",
+        "fr": "Village de chalets enneigés",
+        "ja": "雪のロッジ村",
+        "ko": "눈 덮인 산장 마을",
+        "zh": "雪中木屋村"
+      },
+      "archive": "snowy_lodge_village/snowy_lodge_village-v2.zip",
+      "bytes": 5308884,
+      "thumbnail": "snowy_lodge_village/thumbnail.webp"
+    },
+    {
+      "id": "desert_oasis",
+      "titleKey": "map_desert_oasis",
+      "version": 2,
+      "bundled": false,
+      "title": {
+        "de": "Wüstenoase",
+        "en": "Desert Oasis",
+        "es": "Oasis del desierto",
+        "fr": "Oasis du désert",
+        "ja": "砂漠のオアシス",
+        "ko": "사막 오아시스",
+        "zh": "沙漠綠洲"
+      },
+      "archive": "desert_oasis/desert_oasis-v2.zip",
+      "bytes": 5836709,
+      "thumbnail": "desert_oasis/thumbnail.webp"
+    },
+    {
+      "id": "magic_academy",
+      "titleKey": "map_magic_academy",
+      "version": 5,
+      "bundled": false,
+      "title": {
+        "de": "Zauberakademie",
+        "en": "Magic Academy",
+        "es": "Academia de magia",
+        "fr": "Académie de magie",
+        "ja": "魔法学校",
+        "ko": "마법 학교",
+        "zh": "魔法學院"
+      },
+      "archive": "magic_academy/magic_academy-v5.zip",
+      "bytes": 4998389,
+      "thumbnail": "magic_academy/thumbnail.webp"
+    }
+  ]
+}
