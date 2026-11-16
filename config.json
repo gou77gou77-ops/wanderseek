@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "economy": {
+    "new_map_bonus_hints": 1,
+    "map_first_clear_coins": 40,
+    "map_replay_coins": 5,
+    "sticker_set_coins": 30,
+    "sticker_set_hints": 1,
+    "hint_pack_small_hints": 1,
+    "hint_pack_small_price": 30,
+    "hint_pack_large_hints": 3,
+    "hint_pack_large_price": 75,
+    "daily_base_coins": 20,
+    "daily_streak_step_coins": 5,
+    "daily_streak_cap": 7,
+    "daily_week_hints": 1,
+    "rewarded_ad_hints": 1,
+    "rewarded_ads_per_day": 15,
+    "reward_ad_multiplier": 2,
+    "interstitial_every_clears": 1,
+    "interstitial_after_maps": 2,
+    "interstitial_min_interval_seconds": 180,
+    "interstitial_after_rewarded_seconds": 180,
+    "app_open_min_background_seconds": 14400
+  }
+}
