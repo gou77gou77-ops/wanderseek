@@ -1,6 +1,8 @@
 {
   "version": 1,
   "economy": {
+    "start_hints": 1,
+    "start_coins": 0,
     "new_map_bonus_hints": 1,
     "map_first_clear_coins": 40,
     "map_replay_coins": 5,
